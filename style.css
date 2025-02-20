@@ -1,0 +1,22 @@
+h1 {
+    color: navajowhite;
+    justify-content: ;
+}
+h2{
+    color:aquamarine
+}
+img {
+    width: 50%;
+    max-width: 2000px;
+    height: auto;
+    display: block;
+    color: rgb(221, 37, 37);
+}
+
+.titulo {
+    display: flex;
+    justify-content: center;
+    font-size: 3em;
+    color: #b12727;
+    text-align: center;
+}
