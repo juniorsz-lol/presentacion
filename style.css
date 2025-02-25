@@ -1,16 +1,16 @@
 h1 {
-    color: navajowhite;
+    color: rgb(228, 107, 51);
     justify-content: ;
 }
 h2{
-    color:aquamarine
+    color:rgb(31, 71, 235)
 }
 img {
     width: 50%;
     max-width: 2000px;
     height: auto;
     display: block;
-    color: rgb(221, 37, 37);
+    color: rgb(12, 191, 241);
 }
 
 .titulo {
